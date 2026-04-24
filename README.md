@@ -121,7 +121,6 @@ class Yef_dev:
 - 🌊 Las ondas gravitacionales de **LIGO** se detectan con redes neuronales
 
 ```python
-# Mi sueño: aplicar Visión Computacional al cosmos 🌌
 import cv2
 import numpy as np
 from astropy.io import fits
@@ -129,7 +128,6 @@ from astropy.io import fits
 def analizar_galaxia(imagen_fits):
     """Clasificar morfología galáctica con Deep Learning"""
     datos = fits.open(imagen_fits)[0].data
-    # Preprocesar → CNN → Clasificar: Espiral / Elíptica / Irregular
     return modelo_cnn.predict(preprocesar(datos))
 ```
 
