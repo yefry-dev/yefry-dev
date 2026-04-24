@@ -4,8 +4,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Yef_dev&fontSize=80&fontAlignY=35&desc=Python%20%7C%20AI%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=58&animation=fadeIn)
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines= Building+AI+that+sees+the+world; Where+Physics+meets+Deep+Learning; Computer+Vision+%26+Neural+Networks; Exploring+the+Universe+through+Code; Python+%7C+PyTorch+%7C+TensorFlow)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=🤖+Building+AI+that+sees+the+world;🔭+Where+Physics+meets+Deep+Learning;🧠+Computer+Vision+%26+Neural+Networks;🌌+Exploring+the+Universe+through+Code;🐍+Python+%7C+PyTorch+%7C+TensorFlow)](https://git.io/typing-svg)
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yefry-dev&style=for-the-badge&color=0e75b6&label=VISITAS+AL+PERFIL)
