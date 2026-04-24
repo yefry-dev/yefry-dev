@@ -80,8 +80,6 @@ class Yef_dev:
 
 ## 📊 Estadísticas de GitHub
 
-> ⚡ *Datos 100% reales — se actualizan solos cada vez que alguien visita el perfil*
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yefry-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0a0b0"/>
